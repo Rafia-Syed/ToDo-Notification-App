@@ -312,8 +312,8 @@ We love contributions! Here's how you can help:
 ## 👨‍💻 **Author**
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Rafia-Syed))
-- LinkedIn: [Your Profile](https://linkedin.com/in/rafia-asim-flutter/))
+- GitHub: [Rafia Asim](https://github.com/Rafia-Syed))
+- LinkedIn: [Rafia Asim](https://linkedin.com/in/rafia-asim-flutter/))
 
 ---
 
@@ -339,7 +339,7 @@ If you find this project helpful, please give it a ⭐️ on GitHub!
 
 ## 📞 **Support**
 
-For support, email your.email@example.com or create an issue in the GitHub repository.
+For support, email rafia.asim90@gmail.com or create an issue in the GitHub repository.
 
 ---
 

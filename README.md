@@ -8,7 +8,7 @@
 A beautiful and functional Todo application built with Flutter that helps you organize tasks with **smart reminders** and **exact notifications**. Never miss a deadline again!
 
 <p align="center">
-  <img src="screenshots/app_icon.png" alt="App Icon" width="200">
+  <img src="screenshot/todologo.png" alt="App Icon" width="200">
 </p>
 
 ---
@@ -35,7 +35,7 @@ A beautiful and functional Todo application built with Flutter that helps you or
 
 | Splash Screen | Home Screen | Add Task | Notifications |
 |---------------|-------------|----------|---------------|
-| <img src="screenshots/splash.png" width="200"> | <img src="screenshots/home.png" width="200"> | <img src="screenshots/add_task.png" width="200"> | <img src="screenshots/notification.png" width="200"> |
+| <img src="screenshot/splash.jpg" width="200"> | <img src="screenshot/Home.jpg" width="200"> | <img src="screenshot/Add Task.jpg" width="200"> | <img src="screenshot/Notification.jpg" width="200"> |
 
 ---
 
@@ -312,9 +312,8 @@ We love contributions! Here's how you can help:
 ## 👨‍💻 **Author**
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- GitHub: [@yourusername](https://github.com/Rafia-Syed))
+- LinkedIn: [Your Profile](https://linkedin.com/in/rafia-asim-flutter/))
 
 ---
 
@@ -325,7 +324,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Your Name
+Copyright (c) 2025 Rafia Asim
 
 Permission is hereby granted...
 ```
@@ -357,4 +356,4 @@ For support, email your.email@example.com or create an issue in the GitHub repos
 
 ---
 
-*Last Updated: January 2024*
+*Last Updated: December 2025*
